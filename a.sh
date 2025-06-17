@@ -12,3 +12,9 @@ git add a.txt
 
 # 5. 상태 재확인 - 스테이징된 파일 확인
 git status
+
+# 6. 커밋 - 파일을 저장소에 영구적으로 저장
+git commit -m "first commit"
+
+# 7. 상태 확인 - 커밋 후 상태 확인
+git status
